@@ -1,0 +1,1 @@
+ /Users/techwenssoftware/AndroidStudioProjects/Soumyajit/CardScannerUpdated/.dart_tool/flutter_build/234793b5ee43ab58ae0f0cc066ac8730/native_assets.yaml: 
